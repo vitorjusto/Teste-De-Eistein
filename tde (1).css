@@ -1,0 +1,39 @@
+div
+{
+      width: 150px;
+      text-align: center;
+      float: inherit;
+      margin:5px;
+      border: 1px solid black;
+      background-color: #1a1a1a;
+}
+
+.centralizar
+{
+      margin:auto;
+}
+
+li
+{
+      margin-bottom:5px;     
+}
+
+select
+{
+      width:130px;
+      margin-top:10px;
+      margin-bottom:10px;
+}
+
+.dica
+{
+      margin-left: 20px;
+      border-spacing: 30px;
+}
+
+body
+{
+      background-color:black;
+      color:#F0F0F0;
+      font-family: Arial;
+}
