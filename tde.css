@@ -1,0 +1,59 @@
+div
+{
+
+      text-align: center;
+
+
+}
+
+.centralizar
+{
+      margin:auto;
+}
+
+li
+{
+      margin-bottom:5px;     
+}
+
+.wrapper select
+{
+      width:70%;
+      margin:5px;
+      border-radius: 5px;
+      border:1px solid black;
+
+}
+
+.dica
+{
+      margin: auto;
+
+
+}
+
+body
+{
+      background-color:black;
+      color:black;
+      font-family: Arial;
+
+}
+
+.casa
+{
+    border: 2px solid black;
+    background-color: rgb(191, 191, 191);
+    height: 230px;
+    width: 150px;
+
+    
+    text-align: center;
+}
+
+
+.dica
+{
+      margin-top: 100px;
+}
+
